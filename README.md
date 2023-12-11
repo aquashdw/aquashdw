@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![solved.ac stats](https://mazassumnida.wtf/api/v2/generate_badge?boj=aquashdw)
 <!--
 **aquashdw/aquashdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

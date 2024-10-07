@@ -1,6 +1,9 @@
+[portfolio](https://aquashdw.github.io)
+[flutter minesweeper](https://mine.aquashdw.me)
+[APS tutor project](https://tutor.crstudio.io)
+
 ![solved.ac stats](https://mazassumnida.wtf/api/v2/generate_badge?boj=aquashdw)
 
-[flutter minesweeper](https://mine.aquashdw.me/)
 <!--
 **aquashdw/aquashdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,10 @@
 [portfolio](https://aquashdw.github.io)
 
+<!--
 [flutter minesweeper](https://mine.aquashdw.me)
 
 [APS tutor project](https://tutor.crstudio.io)
+-->
 
 ![solved.ac stats](https://mazassumnida.wtf/api/v2/generate_badge?boj=aquashdw)
 
